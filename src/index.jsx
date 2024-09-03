@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-const fName = "Angela";
-const lName = "Yu";
+const fName = "Kaushik";
+const lName = "Adithya";
 const num = 7;
 
 ReactDOM.render(
